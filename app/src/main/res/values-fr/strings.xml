@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="btn_favorite">Favoris</string>
+    <string name="internet_disabled">Connexion internet désactivée</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="internet_enabled">Vérifiez votre connexion internet</string>
+</resources>

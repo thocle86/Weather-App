@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_extra_large">32dp</dimen>
+    <dimen name="title_h1">48sp</dimen>
+    <dimen name="title_h2">40sp</dimen>
+    <dimen name="title_h3">32sp</dimen>
+    <dimen name="title_h4">20sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_default">16sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
